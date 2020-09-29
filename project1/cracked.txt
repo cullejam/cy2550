@@ -1,13 +1,3 @@
-superti:caricature
-malcolm:gumshoe
-voltimand:lovelorn
-technof:greenish
-francisco:paranoiacs
-polonius:airwave
-lennox:dismal
-hecate:Attacks
-gertrude:Sillier
-royalcortli:Trefoil
 bernardo:Furores
 thebestrena:Saddled
 streplon:thrombosis4
