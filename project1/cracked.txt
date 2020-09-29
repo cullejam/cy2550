@@ -38,7 +38,7 @@ donalbain:Queries7
 rosaline:Extremely2 
 romeo:Parading4
 sanbenect:broache$
-benvolio:sh@mpoo 
-fortinbras:b3amed
-marcellus:excitedly 
-scattle:BTBa
+benvolio:sh@mpoo
+fortinbras:b3amed 
+marcellus:excitedly  
+scattle:BTBa 
