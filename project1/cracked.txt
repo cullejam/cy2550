@@ -16,4 +16,3 @@ macduff:immortal
 capulet:dudgeon
 duncan:freakish
 ophelia:regulators
-superti:caricature
