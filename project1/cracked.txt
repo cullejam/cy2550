@@ -1,23 +1,23 @@
-abram: franchesca067
-peter: 25race
-tybalt: padi6317
-struping: i6f14de421
-tenashlin: vainilla5
-teeratec: vhente_nuebe
-fleance: 76325386
-cornelius: dan2311
-paris: 055046066
-softieli: 233660
-tacticreport: peonies
-juliet: despised
-laertes: diverted
-rosencrantz: gardening
-macduff: immortal
-capulet: dudgeon
-duncan: freakish
-ophelia: regulators
-superti: caricature
-malcolm: gumshoe
+abram:franchesca067 
+peter:25race 
+tybalt:padi6317 
+struping:i6f14de421 
+tenashlin:vainilla5 
+teeratec:vhente_nuebe 
+fleance:76325386 
+cornelius:dan2311 
+paris:055046066 
+softieli:233660 
+tacticreport:peonies 
+juliet:despised 
+laertes:diverted 
+rosencrantz:gardening 
+macduff:immortal 
+capulet:dudgeon 
+duncan:freakish 
+ophelia:regulators 
+superti:caricature 
+malcolm:gumshoe 
 voltimand:lovelorn
 technof:greenish
 francisco:paranoiacs
