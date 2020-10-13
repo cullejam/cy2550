@@ -1,14 +1,14 @@
-chmod 755 /home/bob -
+chmod 755 /home/bob
 chmod 620 /dev/console
 chgrp tty /dev/console
 chmod 777 /dev/shm
-chmod 775 /var/log -
-chmod 664 /var/log/lastlog -
-chgrp root /var/log/apt -
-chmod 755 /usr/bin/bash -
-chmod 755 /usr/bin/ls -
+chmod 775 /var/log
+chmod 664 /var/log/lastlog
+chgrp root /var/log/apt
+chmod 755 /usr/bin/bash
+chmod 755 /usr/bin/ls
 chmod 755 /usr/bin/passwd
-chmod 755 /usr/sbin/adduser -
-chmod 755 /usr/local/bin -
+chmod 755 /usr/sbin/adduser
+chmod 755 /usr/local/bin
 chmod 555 /sys
 chmod 555 /proc
