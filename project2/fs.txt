@@ -12,3 +12,7 @@ chmod 755 /usr/sbin/adduser
 chmod 755 /usr/local/bin
 chmod 555 /sys
 chmod 555 /proc
+chmod 755 /usr/lib/security
+chgrp root /usr/lib/security
+chmod 755 /usr/local/share/ca-cerificates
+chgrp root /usr/local/share/man
