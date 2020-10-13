@@ -1,0 +1,4 @@
+chmod 755 /home/bob
+chmod 620 /dev/console
+chmod 777 /dev/shm
+chmod 775 /var/log
