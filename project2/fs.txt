@@ -14,6 +14,5 @@ chmod 555 /sys
 chmod 555 /proc
 chmod 755 /usr/lib/x86_64-linux-gnu/security
 chgrp root /usr/lib/x86_64-linux-gnu/security
-chmod 755 /usr/local/share/ca-cerificates
-chgrp root /usr/loc
+chmod 755 /usr/local/share/ca-certificates
 chgrp root /usr/local/share/man
