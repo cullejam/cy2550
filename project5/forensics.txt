@@ -1,6 +1,6 @@
 /var/www/html/uploads/craving-otter-windfalls-4.php
 17/Nov/2020:06:09:39 -0500
 Nov 17 06:09:39
-/etc/shadow/passwordloot.txt
+/etc/shadow
 /root/seventy-extrapolate-torpedoes-1.sh
 /usr/bin/perlthanks
